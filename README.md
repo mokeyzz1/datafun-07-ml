@@ -2,8 +2,9 @@
 
 ## Clone the Repository
 
--git clone https://github.com/mokeyzz1/datafun-07-ml
--cd datafun-07-ml
+- git clone https://github.com/mokeyzz1/datafun-07-ml
+
+- cd datafun-07-ml
 
 ### Create and Activate a Virtual Environment
 python3 -m venv .venv
